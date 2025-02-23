@@ -96,7 +96,7 @@ if (require("../package.json").version == "2.0.0") {
 const _0x51c179 = {
   pattern: "aiphoto",
   desc: "ai chat",
-  react: "🌝",
+  react: "🤫",
   category: "ai",
   use: ".aiphoto < Text >",
   filename: __filename
@@ -137,7 +137,7 @@ cmd(_0x51c179, async (_0x5a0fa2, _0xcf5f38, _0x1a9db9, {
         };
         const _0x1f2b75 = {
           image: _0x43d0cb,
-          caption: "*㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙰𝚂𝙸𝚃𝙷𝙰  〽️Ｄ*"
+          caption: "*ρσɯҽɾҽԃ Ⴆყ ϝɾҽʂԋʅιɳƙ ɱԃ🔱*"
         };
         const _0x3323b5 = {
           quoted: _0xcf5f38
@@ -424,7 +424,7 @@ const _0x391116 = {
   pattern: "restcountry",
   desc: "Fetch country details based on user query",
   category: "search",
-  react: "🌍",
+  react: "🔎",
   filename: __filename
 };
 cmd(_0x391116, async (_0x5b024a, _0x432ece, _0x4a4475, {
@@ -478,7 +478,7 @@ const _0xd51a77 = {
   pattern: "fetch",
   desc: "Fetch data from a given URL or default data",
   category: "owner",
-  react: "📥",
+  react: "📩",
   filename: __filename
 };
 cmd(_0xd51a77, async (_0x4cc90e, _0x4ac81d, _0x2cb429, {
