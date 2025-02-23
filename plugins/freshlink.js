@@ -115,7 +115,7 @@ if (require("../package.json").version == "2.0.0") {
 const _0x208144 = {
   pattern: "twitter",
   alias: ["twdl"],
-  react: "🎥",
+  react: "🎬",
   desc: "download tw videos",
   use: ".twitter < Link >",
   category: "download",
@@ -159,7 +159,7 @@ cmd(_0x208144, async (_0x274150, _0x1e438c, _0x3f5766, {
     const _0x7eae7e = {
       video: _0x5f5f88,
       mimetype: "video/mp4",
-      caption: "> *㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙰𝚂𝙸𝚃𝙷𝙰  〽️Ｄ*"
+      caption: "> *ρσɯҽɾҽԃ Ⴆყ ϝɾҽʂԋʅιɳƙ ɱԃ🔱*"
     };
     const _0x3dbe6b = {
       quoted: _0x1e438c
@@ -172,7 +172,7 @@ cmd(_0x208144, async (_0x274150, _0x1e438c, _0x3f5766, {
     const _0x2430a8 = {
       video: _0x51780e,
       mimetype: "video/mp4",
-      caption: "> *㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙰𝚂𝙸𝚃𝙷𝙰  〽️Ｄ*"
+      caption: "> *ρσɯҽɾҽԃ Ⴆყ ϝɾҽʂԋʅιɳƙ ɱԃ🔱*"
     };
     const _0x3393b3 = {
       quoted: _0x1e438c
@@ -220,7 +220,7 @@ cmd(_0x41a371, async (_0x3ee616, _0x11aecd, _0x390d87, {
     const _0x278d56 = _0x21f1f5.split(" & ")[1];
     let _0x47bb2b = await GDriveDl(_0x390d87.quoted.msg);
     _0x390d87.react("⬆️");
-    const _0x180904 = await getimage("https://i.ibb.co/0GhKf6N/20241120-113020.jpg");
+    const _0x180904 = await getimage("https://i.ibb.co/W4YHFr02/8046.jpg");
     const _0x3ab1a5 = {
       url: _0x47bb2b.downloadUrl
     };
@@ -229,7 +229,7 @@ cmd(_0x41a371, async (_0x3ee616, _0x11aecd, _0x390d87, {
       fileName: _0x47bb2b.fileName,
       jpegThumbnail: _0x180904,
       mimetype: _0x47bb2b.mimetype,
-      caption: _0x278d56 + "\n\n  " + "*㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙰𝚂𝙸𝚃𝙷𝙰  〽️Ｄ*"
+      caption: _0x278d56 + "\n\n  " + "*ρσɯҽɾҽԃ Ⴆყ ϝɾҽʂԋʅιɳƙ ɱԃ🔱*"
     };
     const _0x347ffd = {
       quoted: _0x11aecd
@@ -264,7 +264,7 @@ cmd(_0x17e6f9, async (_0x3c788a, _0x124931, _0x52931e, {
     let _0x122e3c = await GDriveDl(_0x17013e);
     const _0x526975 = _0x122e3c.fileName;
     _0x52931e.react("⬆️");
-    const _0x1e2b6f = await getimage("https://i.ibb.co/0GhKf6N/20241120-113020.jpg");
+    const _0x1e2b6f = await getimage("https://i.ibb.co/W4YHFr02/8046.jpg");
     const _0x45c550 = {
       url: _0x122e3c.downloadUrl
     };
@@ -273,7 +273,7 @@ cmd(_0x17e6f9, async (_0x3c788a, _0x124931, _0x52931e, {
       fileName: _0x122e3c.fileName,
       jpegThumbnail: _0x1e2b6f,
       mimetype: _0x122e3c.mimetype,
-      caption: _0x526975 + "\n\n " + "*㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙰𝚂𝙸𝚃𝙷𝙰  〽️Ｄ*"
+      caption: _0x526975 + "\n\n " + "*ρσɯҽɾҽԃ Ⴆყ ϝɾҽʂԋʅιɳƙ ɱԃ🔱*"
     };
     const _0x385cea = {
       quoted: _0x124931
@@ -399,7 +399,7 @@ cmd(_0x3bc3a7, async (_0x2db28a, _0x2cafe7, _0x126f2d, {
       fileName: _0x4c6583,
       mimetype: _0xee9011,
       jpegThumbnail: _0x547d3b,
-      caption: _0x4c6583 + "\n\n" + "*㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙰𝚂𝙸𝚃𝙷𝙰  〽️Ｄ*"
+      caption: _0x4c6583 + "\n\n" + "*ρσɯҽɾҽԃ Ⴆყ ϝɾҽʂԋʅιɳƙ ɱԃ🔱*"
     };
     const _0x5eb145 = {
       quoted: _0x2cafe7
@@ -520,7 +520,7 @@ cmd(_0x2c7e28, async (_0x349560, _0x3b4de0, _0x4976da, {
     let _0x90339a = _0x19a59a.datalist.list[0].size / 1000000;
     let _0x4108ea = _0x90339a - _0x4f0def;
     const _0x36eaae = await getimage("https://i.ibb.co/0GhKf6N/20241120-113020.jpg");
-    let _0x540fa2 = "\n*「 𝗔𝗣𝗞 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 」*\n*╭──📦 APK Details 📦──◦•◦❥•*\n*╎*\n*╎* *🏷️ Nᴀᴍᴇ :* " + _0x19a59a.datalist.list[0].name + "\n*╎* *📦 Sɪᴢᴇ :* " + _0x4108ea + "MB\n*╎* *🔖 Pᴀᴄᴋᴀɢᴇ :* " + _0x19a59a.datalist.list[0]["package"] + "\n*╎* *📆 Lᴀꜱᴛ Uᴘᴅᴀᴛᴇ :* " + _0x19a59a.datalist.list[0].updated + "\n*╎* *👤 Dᴇᴠᴇʟᴏᴘᴇʀꜱ :* " + _0x19a59a.datalist.list[0].developer.name + "\n*╎*\n*╰───────────────◦•◦❥•*\n\n*㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙰𝚂𝙸𝚃𝙷𝙰  〽️Ｄ*";
+    let _0x540fa2 = "\n*「 𝗔𝗣𝗞 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 」*\n*╭──📦 APK Details 📦──◦•◦❥•*\n*╎*\n*╎* *🏷️ Nᴀᴍᴇ :* " + _0x19a59a.datalist.list[0].name + "\n*╎* *📦 Sɪᴢᴇ :* " + _0x4108ea + "MB\n*╎* *🔖 Pᴀᴄᴋᴀɢᴇ :* " + _0x19a59a.datalist.list[0]["package"] + "\n*╎* *📆 Lᴀꜱᴛ Uᴘᴅᴀᴛᴇ :* " + _0x19a59a.datalist.list[0].updated + "\n*╎* *👤 Dᴇᴠᴇʟᴏᴘᴇʀꜱ :* " + _0x19a59a.datalist.list[0].developer.name + "\n*╎*\n*╰───────────────◦•◦❥•*\n\n*ρσɯҽɾҽԃ Ⴆყ ϝɾҽʂԋʅιɳƙ ɱԃ🔱*";
     const _0x7a7cb = {
       url: _0x19a59a.datalist.list[0].icon
     };
@@ -540,7 +540,7 @@ cmd(_0x2c7e28, async (_0x349560, _0x3b4de0, _0x4976da, {
       fileName: _0x19a59a.datalist.list[0].name,
       jpegThumbnail: _0x36eaae,
       mimetype: "application/vnd.android.package-archive",
-      caption: "*㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙰𝚂𝙸𝚃𝙷𝙰  〽️Ｄ*"
+      caption: "*ρσɯҽɾҽԃ Ⴆყ ϝɾҽʂԋʅιɳƙ ɱԃ🔱*"
     };
     const _0x5198e0 = {
       quoted: _0x3b4de0
@@ -656,9 +656,9 @@ cmd(_0x1a582c, async (_0x313f88, _0x4452b1, _0x235b92, {
     const _0x4265e2 = {
       document: _0x2966a8,
       jpegThumbnail: _0x4d3561,
-      caption: "\n*⏤͟͟͞͞★❮𝗔 𝗦 𝗜 𝗧 𝗛 𝗔 〽️ 𝗢 𝗩 𝗜 𝗘❯⏤͟͟͞͞★*",
+      caption: "\n*🎥FRESHLINK-MD-MOVIE🎬*",
       mimetype: "video/mp4",
-      fileName: "🎬ASITHA-MD🎬.mp4"
+      fileName: "🎬FRESHLINK-MD🎬.mp4"
     };
     await _0x313f88.sendMessage(_0x160376, _0x4265e2);
     const _0x137d45 = {
@@ -730,10 +730,10 @@ cmd(_0x5a9f76, async (_0x4e2d63, _0xb30e71, _0x4ef9f3, {
     };
     const _0x327e94 = {
       document: _0x3d0c4f,
-      caption: "\n" + _0x4b2706 + "\n\n*⏤͟͟͞͞★❮𝗔 𝗦 𝗜 𝗧 𝗛 𝗔 〽️ 𝗢 𝗩 𝗜 𝗘❯⏤͟͟͞͞★*",
+      caption: "\n" + _0x4b2706 + "\n\n*🎥FRESHLINK-MD-MOVIE🎬*",
       mimetype: "video/mp4",
       jpegThumbnail: _0x36b7f1,
-      fileName: "🎬 ASITHA-MD 🎬\n" + _0x4b2706 + ".mp4"
+      fileName: "🎬 FRESHLINK-MD 🎬\n" + _0x4b2706 + ".mp4"
     };
     await _0x4e2d63.sendMessage(_0xf646e8, _0x327e94);
   } catch (_0x3dc957) {
@@ -795,7 +795,7 @@ cmd(_0x139ec6, async (_0x5b033f, _0x25d844, _0x31e059, {
     };
     const _0x41381a = {
       document: _0x322e8e,
-      caption: "\n" + _0xc3ec0b + "\n\n*⏤͟͟͞͞★❮𝗔 𝗦 𝗜 𝗧 𝗛 𝗔 〽️ 𝗢 𝗩 𝗜 𝗘❯⏤͟͟͞͞★*",
+      caption: "\n" + _0xc3ec0b + "\n\n*🎥FRESHLINK-MD-MOVIE🎬*",
       mimetype: "application/zip",
       jpegThumbnail: _0x1971d6,
       fileName: "🎬 ASITHA-MD 🎬\n" + _0xc3ec0b + ".mp4"
@@ -883,7 +883,7 @@ cmd(_0x17449a, async (_0xc30223, _0x32908c, _0x1ae563, {
       caption: "*" + _0xb95dad + "*\n\n*`[WEB-DL " + _0x551ab1 + "]`*\n\n*⏤͟͟͞͞★❮𝗔 𝗦 𝗜 𝗧 𝗛 𝗔 〽️ 𝗢 𝗩 𝗜 𝗘❯⏤͟͟͞͞★*",
       mimetype: "video/x-matroska",
       jpegThumbnail: _0x315688,
-      fileName: "🎬ASITHA-MD🎬" + _0xb95dad + ".mp4"
+      fileName: "🎬FRESHLINK-MD🎬" + _0xb95dad + ".mp4"
     };
     const _0xf00b66 = {
       quoted: _0x32908c
