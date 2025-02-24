@@ -276,7 +276,7 @@ cmd(_0x42e937, async (_0x5dc7bd, _0x50ac99, _0x4af521, {
     };
     const _0x4162b0 = {
       image: _0x37e591,
-      caption: "*㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙰𝚂𝙸𝚃𝙷𝙰  〽️Ｄ*"
+      caption: "*ρσɯҽɾҽԃ Ⴆყ ϝɾҽʂԋʅιɳƙ ɱԃ🌿*"
     };
     const _0x409edc = {
       quoted: _0x50ac99
@@ -466,7 +466,7 @@ cmd(_0x3481ee, async (_0x1c6c65, _0x4ebf9d, _0x4a08d6, {
         }
         let _0x5e2a5a = new Sticker(_0x3c4c68 + ".mp4", {
           "pack": _0x4e8b7f,
-          "author": "*ASITHA*",
+          "author": "*SHAMITHA*",
           "type": StickerTypes.FULL,
           "quality": 0x4b,
           "animated": true
@@ -697,7 +697,7 @@ cmd(_0x575da6, async (_0x3f93a3, _0x302b09, _0x2e6b5b, {
       };
       const _0x1c701a = {
         image: _0x367342,
-        caption: "*㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙰𝚂𝙸𝚃𝙷𝙰  〽️Ｄ*"
+        caption: "*ρσɯҽɾҽԃ Ⴆყ ϝɾҽʂԋʅιɳƙ ɱԃ🌿*"
       };
       const _0x5705df = {
         quoted: _0x302b09
@@ -796,7 +796,7 @@ cmd(_0x1f8ffe, async (_0x3a5cf7, _0x55ea5e, _0x417628, {
     const _0x4aa5ea = {
       video: _0x329180,
       gifPlayback: true,
-      caption: "*㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙰𝚂𝙸𝚃𝙷𝙰  〽️Ｄ*"
+      caption: "*ρσɯҽɾҽԃ Ⴆყ ϝɾҽʂԋʅιɳƙ ɱԃ🌿*"
     };
     const _0x370a2e = {
       quoted: _0x55ea5e
@@ -850,7 +850,7 @@ cmd(_0x531068, async (_0x335558, _0x483a75, _0x1b110a, {
       let _0x30f098 = await Upscale(_0x2e46a4);
       const _0x24c891 = {
         image: _0x30f098,
-        caption: "*㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙰𝚂𝙸𝚃𝙷𝙰  〽️Ｄ*"
+        caption: "*ρσɯҽɾҽԃ Ⴆყ ϝɾҽʂԋʅιɳƙ ɱԃ🌿*"
       };
       const _0x1e06a1 = {
         quoted: _0x483a75
