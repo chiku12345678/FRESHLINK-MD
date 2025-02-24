@@ -1,9 +1,9 @@
 {
-"name": "zero-two-md",    
+"name": "Freshlink-md",    
 "version": "1.0.0",
 "scripts": {
 "start": "pm2 start index.js --deep-monitoring --attach --name zero-two",
-"stop": "pm2 stop zero-two",
+"stop": "pm2 Freshlink-two",
 "restart": "git pull && npm stop && npm start",
 "stash": "git stash && git stash drop"
 },
